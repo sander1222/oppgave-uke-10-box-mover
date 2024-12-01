@@ -1,0 +1,18 @@
+#box {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(201, 0, 0);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
